@@ -1,4 +1,4 @@
-package msa.prj.apigateway.redisConfig;
+package msa.prj.apigateway.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
